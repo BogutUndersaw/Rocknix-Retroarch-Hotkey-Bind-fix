@@ -3,8 +3,11 @@ This is a set of steps to edit the script in Rocknix that edits the hotkeys in R
 
 
 1.) First ssh into Rocknix username is root pw is typically rocknix
+
 2.) run: cp /usr/bin/setsettings.sh /storage/scripts
+
 3.) run: nano /storage/scripts/setsettings.sh
+
 4.) delete the following: 
   
     ### Configure retroarch hotkeys
