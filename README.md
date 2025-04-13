@@ -1,5 +1,5 @@
 # Rocknix-Retroarch-Hotkey-Bind-fix
-This is a set of steps to edit the script in Rocknix that edits the hotkeys in Retroarch when you boot a game.
+This is a set of steps to make an editable copy and bind that copy of the script in Rocknix that edits the hotkeys in Retroarch when you boot a game.
 
 
 1.) First ssh into Rocknix username is root pw is typically rocknix
