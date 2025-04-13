@@ -74,4 +74,5 @@ This is a set of steps to edit the script in Rocknix that edits the hotkeys in R
     }
 
 5.) run: chmod +x /storage/scripts/setsettings.sh
+
 6.) run: mount -o bind /storage/scripts/setsettings.sh /usr/bin/setsettings.sh
